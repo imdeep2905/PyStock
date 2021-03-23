@@ -4,7 +4,7 @@ Minimalistic Stock Trading Simulator with real prices!
 # How to run
   1. Clone this repo. 
   2. Fulfill ```requirements.txt``` (i.e. ```pip install -r requirements.txt```).
-  3. Run server in )```server/```) ```python server.py``` and keep it running.
+  3. Run server in (directory ```server/```) ```python server.py``` and keep it running.
   4. Run main app with command ```python main.py```.
 
 # Screenshots
